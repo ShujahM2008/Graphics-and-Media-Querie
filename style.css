@@ -1,0 +1,19 @@
+svg{
+background-color:greenyellow;
+}
+circle{
+fill:purple;
+stroke:red;
+stroke-width: 5px;
+}
+body{
+background: blue url("https://bit.ly/3h2VSOf") 50% 0% no-repeat;
+}
+@media only screen and (min-width:600px) {
+
+
+body {
+background-color:cyan;
+color:navy;
+}
+}
